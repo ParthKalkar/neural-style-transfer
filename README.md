@@ -44,3 +44,11 @@ To do that, use the following command:
 To do that, just run the following command: 
 
 `pip install name_of_the_library`
+
+## Inputs
+The program expects a `content_image` and `style_image`, the size of the images should be same either `300*225` or `400*300`. You can resize the images or find them online
+
+## Output
+The output would be a sequence of images taken at different iterations and would be stored in the `output/` directory, you can change the number of iterations and images to play around
+
+
