@@ -27,6 +27,7 @@ There are two ways to run the code:
   2. Load in Google colab 
   3. connect to GPU runtime 
   4. Run all cells.
+  
 **Note:** The code is suitable for tensorflow version 1.15 therefore the previous version should be uninstalled and the new version should be installed.
 To do that, use the following command: 
 
@@ -39,6 +40,7 @@ To do that, use the following command:
   2. Download the nst_generate.py file on your laptop in the same folder 
   3. Download the images folder and create an output folder 
   4. Open the terminal and run the following command : `python3 nst_generate.py my_content.jpg my_style.jpg gen.jpg`
+  
 **Note:** You should have the following libraries installed: NumPy, Pandas, Imageio, Tensorflow, Sklearn, CV2
 
 To do that, just run the following command: 
