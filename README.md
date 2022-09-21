@@ -21,10 +21,17 @@ We use the pretrained model - 'imagenet-vgg-verydeep-19', the model can be downl
 
 ## Run
 There are two ways to run the code: 
-1. Download the jupyter notebook, images folder and create a output folder with --> Load in Google colab --> connect to GPU runtime --> Run all cells.
+1. **Run using Colab**: Download the jupyter notebook, images folder and create a output folder with --> Load in Google colab --> connect to GPU runtime --> Run all cells.
 **Note:** The code is suitable for tensorflow version 1.15 therefore the previous version should be uninstalled and the new version should be installed.
 To do that, use the following command: 
 
 `!pip uninstall tensorflow==2.8.2`
 
 `!pip install tensorflow==1.15`
+
+2. **Run using python script**: create a project folder --> Download the nst_generate.py file on your laptop in the same folder --> download the images folder and create an output folder --> open the terminal and run the following command : `python3 nst_generate.py my_content.jpg my_style.jpg gen.jpg`
+**Note:** You should have the following libraries installed: NumPy, Pandas, Imageio, Tensorflow, Sklearn, CV2
+
+To do that, just run the following command: 
+
+`pip install name_of_the_library`
