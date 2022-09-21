@@ -48,7 +48,15 @@ To do that, just run the following command:
 ## Inputs
 The program expects a `content_image` and `style_image`, the size of the images should be same either `300*225` or `400*300`. You can resize the images or find them online
 
+### My inputs
+![cat](https://user-images.githubusercontent.com/50231750/191466407-6fbb8a4c-a3f1-4626-a5f1-5764b656fafc.jpg)
+![drop-of-water](https://user-images.githubusercontent.com/50231750/191466446-2aa88a41-77a7-4e6d-b8e2-e6642f09580b.jpg)
+
+
 ## Output
 The output would be a sequence of images taken at different iterations and would be stored in the `output/` directory, you can change the number of iterations and images to play around
+
+### My output
+![generated_image](https://user-images.githubusercontent.com/50231750/191466533-724e6932-e095-4291-8b1f-d534c9a31854.jpg)
 
 
