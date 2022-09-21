@@ -74,4 +74,3 @@ The Neural Style Transfer algorithm was due to Gatys et al. (2015). Harish Naray
 - Karen Simonyan and Andrew Zisserman (2015). Very deep convolutional networks for large-scale image recognition (https://arxiv.org/pdf/1409.1556.pdf)
 - MatConvNet. http://www.vlfeat.org/matconvnet/pretrained/
 
-"""
