@@ -21,7 +21,7 @@ We use the pretrained model - 'imagenet-vgg-verydeep-19', the model can be downl
 
 ## Run
 There are two ways to run the code: 
-1. **Run using Colab**: 
+**Run using Colab**: 
   1. Download the jupyter notebook, images folder and create a output folder 
   2. Load in Google colab 
   3. connect to GPU runtime 
@@ -33,7 +33,7 @@ To do that, use the following command:
 
 `!pip install tensorflow==1.15`
 
-2. **Run using python script**: 
+**Run using python script**: 
   1. Create a project folder 
   2. Download the nst_generate.py file on your laptop in the same folder 
   3. Download the images folder and create an output folder 
