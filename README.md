@@ -59,4 +59,7 @@ The output would be a sequence of images taken at different iterations and would
 ### My output
 ![generated_image](https://user-images.githubusercontent.com/50231750/191466533-724e6932-e095-4291-8b1f-d534c9a31854.jpg)
 
+## Generated Video
+
+https://user-images.githubusercontent.com/50231750/191467062-9650b9d3-9696-469a-970d-5d0a9cd59be6.mp4
 
