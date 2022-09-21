@@ -21,6 +21,7 @@ We use the pretrained model - 'imagenet-vgg-verydeep-19', the model can be downl
 
 ## Run
 There are two ways to run the code: 
+
 **Run using Colab**: 
   1. Download the jupyter notebook, images folder and create a output folder 
   2. Load in Google colab 
